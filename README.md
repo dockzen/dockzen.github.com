@@ -2,7 +2,7 @@
 
 <img src="./image/tizen-docker.jpg" width="40%">
 
-> We are researching about tizen containers, light-weight host os which is desinged for docker in embedded system and remote web control especially update and monitoring.
+> We are researching about tizen containers, light-weight host os which is desinged for docker in embedded system and remote web control such as update and monitoring.
 
 
 ### Quick-Start ###
@@ -21,6 +21,9 @@
 - Dockzen Framework : 
 	- [https://github.com/dockzen/dockzen-launcher](https://github.com/dockzen/dockzen-launcher)
 	- [https://github.com/dockzen/dockzen-agent](https://github.com/dockzen/dockzen-agent)
+
 ### Target Kernels ###
 - Raspi3 kernel : [https://github.com/dockzen/linux-rpi3-docker](https://github.com/dockzen/linux-rpi3-docker)
 - Artik710 Kernel : [https://github.com/dockzen/linux-artik7-docker](https://github.com/dockzen/linux-artik7-docker)
+  
+    
