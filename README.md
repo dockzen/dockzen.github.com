@@ -7,7 +7,9 @@
 
 ### Quick-Start ###
 
-*under the preparing...*
+- version 1.0 : ARM  
+[Install dockzen packages with your OS](./install/v1.0/README_wo_dockzen.md)  
+[Install with dockzen-OS](./install/v1.0/README_wi_dockzen.md)
 
 ### Sample Tizen Containers ###
 - [https://hub.docker.com/u/dockzen/](https://hub.docker.com/u/dockzen/)
