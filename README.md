@@ -15,17 +15,14 @@
 - [https://hub.docker.com/u/dockzen/](https://hub.docker.com/u/dockzen/)
 
 ### Git Repositories ###
-- Dockzen Host OS : [https://github.com/dockzen/dockzen-os](https://github.com/dockzen/dockzen-os)
+- Dockzen Host OS : 
 - Docker-engine : 
-	- [https://github.com/dockzen/docker](https://github.com/dockzen/docker)
-	- [https://github.com/dockzen/containerd](https://github.com/dockzen/containerd)
-	- [https://github.com/dockzen/runc](https://github.com/dockzen/runc)
+	- 
 - Dockzen Framework : 
-	- [https://github.com/dockzen/dockzen-launcher](https://github.com/dockzen/dockzen-launcher)
-	- [https://github.com/dockzen/dockzen-agent](https://github.com/dockzen/dockzen-agent)
+	- 
 
 ### Target Kernels ###
-- Raspi3 kernel : [https://github.com/dockzen/linux-rpi3-docker](https://github.com/dockzen/linux-rpi3-docker)
-- Artik710 Kernel : [https://github.com/dockzen/linux-artik7-docker](https://github.com/dockzen/linux-artik7-docker)
+- Raspi3 kernel : 
+- Artik710 Kernel : 
   
     
