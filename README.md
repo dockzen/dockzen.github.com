@@ -16,10 +16,8 @@
 
 ### Git Repositories ###
 - Dockzen Host OS : 
-- Docker-engine : 
-	- 
+- Docker-engine :
 - Dockzen Framework : 
-	- 
 
 ### Target Kernels ###
 - Raspi3 kernel : 
